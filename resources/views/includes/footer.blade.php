@@ -1,10 +1,16 @@
 
 <footer>
-	© {{ __('misc.copyright') }}
+    <div class="footer-styling">
+        © {{ __('misc.copyright') }}
+        <a href="">Over ons</a>
+        <a href="">email@email.com</a>
+        <a href="">+ 31 634233421</a>
+        <a href="">Facebook</a>
+    </div>
 </footer>
 
 
-<!-- analytics code -->              
+<!-- analytics code -->
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -19,10 +25,10 @@
 </script>
 <!-- Einde analytics code -->
 
-<script language="Javascript" type="text/javascript"> 
- 
- if (top.location!= self.location) { 
+<script language="Javascript" type="text/javascript">
+
+ if (top.location!= self.location) {
   top.location = self.location.href
- } 
- 
+ }
+
 </script>

@@ -22,5 +22,7 @@ return [
 'view_manual' => "Directly view your manual",
 'view_manual_alt' => "Directly view your manual",
 'all_brands' => "All brands",
-
+'all_overons' => "Over ons",
+'all_contact' => "31654287654",
+'all_social' => "Instagram",
 ];
