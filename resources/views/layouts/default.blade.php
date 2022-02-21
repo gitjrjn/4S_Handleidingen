@@ -14,7 +14,6 @@
 
         <div class="col-md-8">
             @include('includes.header')
-
             <ul class="breadcrumb">
                 <li><a href="/" title="{{ __('misc.home_alt') }}"
                         alt="{{ __('misc.home_alt') }}">{{ __('misc.home') }}</a></li>
