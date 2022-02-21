@@ -2,10 +2,10 @@
 <footer>
     <div class="footer-styling">
         © {{ __('misc.copyright') }}
-        <a href="">Over ons</a>
-        <a href="">email@email.com</a>
-        <a href="">+ 31 634233421</a>
-        <a href="">Facebook</a>
+        <a href=""> Over ons </a>
+        <a href=""> email@email.com </a>
+        <a href=""> + 31 634233421 </a>
+        <a href=""> Facebook </a>
     </div>
 </footer>
 
