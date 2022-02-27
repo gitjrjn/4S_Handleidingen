@@ -53,9 +53,7 @@
                 unset($header_first_letter);
                 ?>
             @endforeach
-
         </div>
-
     </div>
 
 @endsection
