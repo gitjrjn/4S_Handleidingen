@@ -47,7 +47,7 @@
                                     </li>
                                 @endforeach
                             </ul>
-                        </div>
+                        </div
                     </div>
                     <?php
                     unset($header_first_letter);
