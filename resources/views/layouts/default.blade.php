@@ -40,8 +40,6 @@
 
                 <div class="c-footer__cta"></div>
                 <div class="c-footer__nav">
-
-
                 </div>
 
 
@@ -49,7 +47,6 @@
                 <div class="c-footer__info">
                     @include('includes.footer')
                 </div>
-
             </div>
         </div>
     </div>
