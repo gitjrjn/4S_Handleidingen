@@ -32,16 +32,24 @@
 				</li>
                 @yield('breadcrumb')
             </ul>
-
         </div>
 
-        <div class="row">
-            @include('includes.footer')
-        </div>
+        <div class="c-footer">
+            <div class="l-wrap">
+                <div class="1-wrap__full l-footer__wrap"></div>
 
+                <div class="c-footer__cta"></div>
+                <div class="c-footer__nav"></div>
+
+
+
+                <div class="c-footer__info">
+                    @include('includes.footer')
+                </div>
+
+            </div>
+        </div>
     </div>
-
-
 </div>
 
 <!-- Bootstrap core JavaScript
